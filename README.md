@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# tutorial
-Astro tutorial
+# Astro tutorial
 =======
 # Astro Starter Kit: Minimal
 
@@ -49,4 +47,3 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
->>>>>>> 6b477db (Initial commit from Astro)
